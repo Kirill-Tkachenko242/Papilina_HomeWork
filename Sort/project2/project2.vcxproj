@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d8afee4c-d5f8-4839-9ad1-2c96c25f8574}</ProjectGuid>
-    <RootNamespace>TkachenkoBubbleSort</RootNamespace>
+    <ProjectGuid>{7facaa2f-3911-4960-a98d-daf14c34d8c7}</ProjectGuid>
+    <RootNamespace>project2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Tkachenko_Bubble_Sort.cpp" />
+    <ClCompile Include="bubblesort_by_Tkachenko.cpp" />
+    <ClCompile Include="project2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataSetRegister.h" />
+    <ClInclude Include="Participants.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
