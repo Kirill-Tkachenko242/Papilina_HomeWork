@@ -21,6 +21,9 @@
     <ClCompile Include="bubblesort_by_Tkachenko.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="sheiko_insertion_sort.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h">

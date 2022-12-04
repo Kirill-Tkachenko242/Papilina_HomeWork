@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="bubblesort_by_Tkachenko.cpp" />
     <ClCompile Include="project2.cpp" />
+    <ClCompile Include="sheiko_insertion_sort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />

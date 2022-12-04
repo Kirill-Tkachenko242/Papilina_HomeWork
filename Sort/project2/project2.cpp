@@ -69,7 +69,7 @@ int main()
             
             team = "TkachenkoTeam";
             RUN(bubblesort_by_tkachenko);
-
+            RUN(insertionSort_by_sheiko);
             intDataSets.pop();
         }
     }
@@ -85,7 +85,7 @@ int main()
             
             team = "TkachenkoTeam";
             RUN(bubblesort_by_tkachenko);
-
+            RUN(insertionSort_by_sheiko);
             doubleDataSets.pop();
         }
     }
