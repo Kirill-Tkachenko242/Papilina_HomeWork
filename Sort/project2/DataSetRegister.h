@@ -1,7 +1,6 @@
 #pragma once
 #include <string>
 #include <stack>
-//#include "tm_datasets.cpp"
 
 template <typename T>
 struct DataSet

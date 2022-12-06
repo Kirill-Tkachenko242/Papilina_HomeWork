@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 "Tkachenko team Same numbers"	1000	TkachenkoTeam	bubblesort	tkachenko	4335
 "Tkachenko team Same numbers"	1000	TkachenkoTeam	insertionsort	sheiko	11
 "Tkachenko team Already sorted, desc"	977	TkachenkoTeam	bubblesort	tkachenko	12904
@@ -18,3 +19,15 @@
 "Tkachenko team double 100"	100	TkachenkoTeam	insertionsort	sheiko	100
 "Tkachenko team double 10"	10	TkachenkoTeam	bubblesort	tkachenko	3
 "Tkachenko team double 10"	10	TkachenkoTeam	insertionsort	sheiko	3
+=======
+"Tkachenko team Same numbers"	1000	TkachenkoTeam	bubblesort	tkachenko	10801
+"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	bubblesort	tkachenko	18699
+"Tkachenko team Already sorted"	1000	TkachenkoTeam	bubblesort	tkachenko	7094
+"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	bubblesort	tkachenko	6997
+"Tkachenko team int 1000"	1000	TkachenkoTeam	bubblesort	tkachenko	27952
+"Tkachenko team int 100"	100	TkachenkoTeam	bubblesort	tkachenko	287
+"Tkachenko team int 10"	10	TkachenkoTeam	bubblesort	tkachenko	10
+"Tkachenko team double 1000"	1000	TkachenkoTeam	bubblesort	tkachenko	17406
+"Tkachenko team double 100"	100	TkachenkoTeam	bubblesort	tkachenko	150
+"Tkachenko team double 10"	10	TkachenkoTeam	bubblesort	tkachenko	6
+>>>>>>> Stashed changes
