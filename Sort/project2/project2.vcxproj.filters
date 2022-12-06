@@ -24,6 +24,9 @@
     <ClCompile Include="sheiko_insertion_sort.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="merge_sort_by_medvedev.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h">
@@ -32,5 +35,8 @@
     <ClInclude Include="Participants.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="release.txt" />
   </ItemGroup>
 </Project>

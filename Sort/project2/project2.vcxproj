@@ -128,12 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bubblesort_by_Tkachenko.cpp" />
+    <ClCompile Include="merge_sort_by_medvedev.cpp" />
     <ClCompile Include="project2.cpp" />
     <ClCompile Include="sheiko_insertion_sort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />
     <ClInclude Include="Participants.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="release.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

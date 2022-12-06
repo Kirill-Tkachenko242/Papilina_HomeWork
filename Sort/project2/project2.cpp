@@ -70,6 +70,7 @@ int main()
             team = "TkachenkoTeam";
             RUN(bubblesort_by_tkachenko);
             RUN(insertionSort_by_sheiko);
+            RUN(merge_sort_by_medvedev);
             intDataSets.pop();
         }
     }
@@ -86,6 +87,7 @@ int main()
             team = "TkachenkoTeam";
             RUN(bubblesort_by_tkachenko);
             RUN(insertionSort_by_sheiko);
+            RUN(merge_sort_by_medvedev);
             doubleDataSets.pop();
         }
     }

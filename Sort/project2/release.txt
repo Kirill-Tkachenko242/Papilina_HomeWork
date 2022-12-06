@@ -1,33 +1,30 @@
-<<<<<<< Updated upstream
-"Tkachenko team Same numbers"	1000	TkachenkoTeam	bubblesort	tkachenko	4335
+"Tkachenko team Same numbers"	1000	TkachenkoTeam	bubblesort	tkachenko	4928
 "Tkachenko team Same numbers"	1000	TkachenkoTeam	insertionsort	sheiko	11
-"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	bubblesort	tkachenko	12904
-"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	insertionsort	sheiko	19065
-"Tkachenko team Already sorted"	1000	TkachenkoTeam	bubblesort	tkachenko	4359
-"Tkachenko team Already sorted"	1000	TkachenkoTeam	insertionsort	sheiko	11
-"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	bubblesort	tkachenko	4409
-"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	insertionsort	sheiko	92
-"Tkachenko team int 1000"	1000	TkachenkoTeam	bubblesort	tkachenko	10416
-"Tkachenko team int 1000"	1000	TkachenkoTeam	insertionsort	sheiko	10118
-"Tkachenko team int 100"	100	TkachenkoTeam	bubblesort	tkachenko	98
-"Tkachenko team int 100"	100	TkachenkoTeam	insertionsort	sheiko	93
-"Tkachenko team int 10"	10	TkachenkoTeam	bubblesort	tkachenko	3
-"Tkachenko team int 10"	10	TkachenkoTeam	insertionsort	sheiko	3
-"Tkachenko team double 1000"	1000	TkachenkoTeam	bubblesort	tkachenko	10303
-"Tkachenko team double 1000"	1000	TkachenkoTeam	insertionsort	sheiko	9939
-"Tkachenko team double 100"	100	TkachenkoTeam	bubblesort	tkachenko	100
-"Tkachenko team double 100"	100	TkachenkoTeam	insertionsort	sheiko	100
+"Tkachenko team Same numbers"	1000	TkachenkoTeam	merge_sort	medvedev	255
+"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	bubblesort	tkachenko	12448
+"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	insertionsort	sheiko	19460
+"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	merge_sort	medvedev	377
+"Tkachenko team Already sorted"	1000	TkachenkoTeam	bubblesort	tkachenko	6650
+"Tkachenko team Already sorted"	1000	TkachenkoTeam	insertionsort	sheiko	16
+"Tkachenko team Already sorted"	1000	TkachenkoTeam	merge_sort	medvedev	252
+"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	bubblesort	tkachenko	4424
+"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	insertionsort	sheiko	86
+"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	merge_sort	medvedev	257
+"Tkachenko team int 1000"	1000	TkachenkoTeam	bubblesort	tkachenko	11546
+"Tkachenko team int 1000"	1000	TkachenkoTeam	insertionsort	sheiko	12007
+"Tkachenko team int 1000"	1000	TkachenkoTeam	merge_sort	medvedev	316
+"Tkachenko team int 100"	100	TkachenkoTeam	bubblesort	tkachenko	92
+"Tkachenko team int 100"	100	TkachenkoTeam	insertionsort	sheiko	87
+"Tkachenko team int 100"	100	TkachenkoTeam	merge_sort	medvedev	25
+"Tkachenko team int 10"	10	TkachenkoTeam	bubblesort	tkachenko	4
+"Tkachenko team int 10"	10	TkachenkoTeam	insertionsort	sheiko	4
+"Tkachenko team int 10"	10	TkachenkoTeam	merge_sort	medvedev	6
+"Tkachenko team double 1000"	1000	TkachenkoTeam	bubblesort	tkachenko	9784
+"Tkachenko team double 1000"	1000	TkachenkoTeam	insertionsort	sheiko	10790
+"Tkachenko team double 1000"	1000	TkachenkoTeam	merge_sort	medvedev	312
+"Tkachenko team double 100"	100	TkachenkoTeam	bubblesort	tkachenko	89
+"Tkachenko team double 100"	100	TkachenkoTeam	insertionsort	sheiko	89
+"Tkachenko team double 100"	100	TkachenkoTeam	merge_sort	medvedev	24
 "Tkachenko team double 10"	10	TkachenkoTeam	bubblesort	tkachenko	3
 "Tkachenko team double 10"	10	TkachenkoTeam	insertionsort	sheiko	3
-=======
-"Tkachenko team Same numbers"	1000	TkachenkoTeam	bubblesort	tkachenko	10801
-"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	bubblesort	tkachenko	18699
-"Tkachenko team Already sorted"	1000	TkachenkoTeam	bubblesort	tkachenko	7094
-"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	bubblesort	tkachenko	6997
-"Tkachenko team int 1000"	1000	TkachenkoTeam	bubblesort	tkachenko	27952
-"Tkachenko team int 100"	100	TkachenkoTeam	bubblesort	tkachenko	287
-"Tkachenko team int 10"	10	TkachenkoTeam	bubblesort	tkachenko	10
-"Tkachenko team double 1000"	1000	TkachenkoTeam	bubblesort	tkachenko	17406
-"Tkachenko team double 100"	100	TkachenkoTeam	bubblesort	tkachenko	150
-"Tkachenko team double 10"	10	TkachenkoTeam	bubblesort	tkachenko	6
->>>>>>> Stashed changes
+"Tkachenko team double 10"	10	TkachenkoTeam	merge_sort	medvedev	4
