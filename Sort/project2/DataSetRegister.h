@@ -26,7 +26,7 @@ std::stack<DataSet<int>> GenerateIntDataSets()
         
         });
 }
-std::stack<DataSet<double>>GenerateDoubleDataSets()
+std::stack<DataSet<double>>GenerateDoubleDataSet()
 {
     return std::stack< DataSet<double>>({
        

@@ -58,7 +58,7 @@ void Run(string method_name, Participant<T> p, vector<T> data)
 int main()
 {
     {
-        cout << endl << "**************INTEGER RACE**************" << endl << endl;
+        cout << endl << "Integer" << endl << endl;
 
         auto intDataSets = GenerateIntDataSets();
         while (!intDataSets.empty())
@@ -75,8 +75,8 @@ int main()
         }
     }
     {
-        cout << endl << "**************DOUBLE RACE**************" << endl << endl;
-        auto doubleDataSets = GenerateDoubleDataSets();
+        cout << endl << "Double" << endl << endl;
+        auto doubleDataSets = GenerateDoubleDataSet();
         while (!doubleDataSets.empty())
         {
             auto& ds = doubleDataSets.top();
