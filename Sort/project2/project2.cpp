@@ -71,6 +71,8 @@ int main()
             RUN(bubblesort_by_tkachenko);
             RUN(insertionSort_by_sheiko);
             RUN(merge_sort_by_medvedev);
+            RUN(quick_sort_by_Loganov);
+            RUN(shellsort_by_doronin);
             intDataSets.pop();
         }
     }
@@ -88,6 +90,8 @@ int main()
             RUN(bubblesort_by_tkachenko);
             RUN(insertionSort_by_sheiko);
             RUN(merge_sort_by_medvedev);
+            RUN(quick_sort_by_Loganov);
+            RUN(shellsort_by_doronin);
             doubleDataSets.pop();
         }
     }

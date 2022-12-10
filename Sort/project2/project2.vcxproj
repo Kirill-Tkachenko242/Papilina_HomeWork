@@ -130,7 +130,9 @@
     <ClCompile Include="bubblesort_by_Tkachenko.cpp" />
     <ClCompile Include="merge_sort_by_medvedev.cpp" />
     <ClCompile Include="project2.cpp" />
+    <ClCompile Include="quick_sort_by_Loganov.cpp" />
     <ClCompile Include="sheiko_insertion_sort.cpp" />
+    <ClCompile Include="shell_sort_by_Doronin.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />
