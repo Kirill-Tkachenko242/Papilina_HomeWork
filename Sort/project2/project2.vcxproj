@@ -131,6 +131,7 @@
     <ClCompile Include="merge_sort_by_medvedev.cpp" />
     <ClCompile Include="project2.cpp" />
     <ClCompile Include="quick_sort_by_Loganov.cpp" />
+    <ClCompile Include="selection_sort_lilichev.cpp" />
     <ClCompile Include="sheiko_insertion_sort.cpp" />
     <ClCompile Include="shell_sort_by_Doronin.cpp" />
   </ItemGroup>

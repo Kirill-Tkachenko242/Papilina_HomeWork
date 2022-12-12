@@ -25,11 +25,11 @@ int shellSort(vector<T>& mas)
 }
 
 
-vector<int> shellsort_by_doronin(vector<int> to_sort) {
-    shellSort(to_sort);
-    return to_sort;
+vector<int> shellsort_by_doronin(vector<int> mas) {
+    shellSort(mas);
+    return mas;
 }
-vector<double> shellsort_by_doronin(vector<double> to_sort) {
-    shellSort(to_sort);
-    return to_sort;
+vector<double> shellsort_by_doronin(vector<double> mas) {
+    shellSort(mas);
+    return mas;
 }

@@ -73,6 +73,7 @@ int main()
             RUN(merge_sort_by_medvedev);
             RUN(quick_sort_by_Loganov);
             RUN(shellsort_by_doronin);
+            RUN(select_sort_by_lilichev);
             intDataSets.pop();
         }
     }
@@ -92,6 +93,7 @@ int main()
             RUN(merge_sort_by_medvedev);
             RUN(quick_sort_by_Loganov);
             RUN(shellsort_by_doronin);
+            RUN(select_sort_by_lilichev);
             doubleDataSets.pop();
         }
     }

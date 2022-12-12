@@ -15,6 +15,8 @@ std::vector<int> quick_sort_by_Loganov(std::vector<int> to_sort);
 std::vector<double> quick_sort_by_Loganov(std::vector<double> to_sort);
 std::vector<int> shellsort_by_doronin(std::vector<int> to_sort);
 std::vector<double> shellsort_by_doronin(std::vector<double> to_sort);
+std::vector<int> select_sort_by_lilichev(std::vector<int> to_sort);
+std::vector<double> select_sort_by_lilichev(std::vector<double> to_sort);
 
 
 

@@ -1,50 +1,60 @@
-"Tkachenko team Same numbers"	1000	TkachenkoTeam	bubblesort	tkachenko	14772
-"Tkachenko team Same numbers"	1000	TkachenkoTeam	insertionsort	sheiko	48
-"Tkachenko team Same numbers"	1000	TkachenkoTeam	merge_sort	medvedev	1564
-"Tkachenko team Same numbers"	1000	TkachenkoTeam	quick_sort	loganov	46142
-"Tkachenko team Same numbers"	1000	TkachenkoTeam	shellsort	doronin	233
-"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	bubblesort	tkachenko	28013
-"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	insertionsort	sheiko	41846
-"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	merge_sort	medvedev	394
-"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	quick_sort	loganov	24474
-"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	shellsort	doronin	458
-"Tkachenko team Already sorted"	1000	TkachenkoTeam	bubblesort	tkachenko	11922
-"Tkachenko team Already sorted"	1000	TkachenkoTeam	insertionsort	sheiko	30
-"Tkachenko team Already sorted"	1000	TkachenkoTeam	merge_sort	medvedev	688
-"Tkachenko team Already sorted"	1000	TkachenkoTeam	quick_sort	loganov	32691
-"Tkachenko team Already sorted"	1000	TkachenkoTeam	shellsort	doronin	176
-"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	bubblesort	tkachenko	7547
-"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	insertionsort	sheiko	172
-"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	merge_sort	medvedev	628
-"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	quick_sort	loganov	39250
-"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	shellsort	doronin	280
-"Tkachenko team int 1000"	1000	TkachenkoTeam	bubblesort	tkachenko	18653
-"Tkachenko team int 1000"	1000	TkachenkoTeam	insertionsort	sheiko	20790
-"Tkachenko team int 1000"	1000	TkachenkoTeam	merge_sort	medvedev	666
-"Tkachenko team int 1000"	1000	TkachenkoTeam	quick_sort	loganov	620
-"Tkachenko team int 1000"	1000	TkachenkoTeam	shellsort	doronin	565
-"Tkachenko team int 100"	100	TkachenkoTeam	bubblesort	tkachenko	189
-"Tkachenko team int 100"	100	TkachenkoTeam	insertionsort	sheiko	204
-"Tkachenko team int 100"	100	TkachenkoTeam	merge_sort	medvedev	53
-"Tkachenko team int 100"	100	TkachenkoTeam	quick_sort	loganov	42
-"Tkachenko team int 100"	100	TkachenkoTeam	shellsort	doronin	35
-"Tkachenko team int 10"	10	TkachenkoTeam	bubblesort	tkachenko	12
-"Tkachenko team int 10"	10	TkachenkoTeam	insertionsort	sheiko	6
-"Tkachenko team int 10"	10	TkachenkoTeam	merge_sort	medvedev	8
-"Tkachenko team int 10"	10	TkachenkoTeam	quick_sort	loganov	6
-"Tkachenko team int 10"	10	TkachenkoTeam	shellsort	doronin	5
-"Tkachenko team double 1000"	1000	TkachenkoTeam	bubblesort	tkachenko	18239
-"Tkachenko team double 1000"	1000	TkachenkoTeam	insertionsort	sheiko	15494
-"Tkachenko team double 1000"	1000	TkachenkoTeam	merge_sort	medvedev	552
-"Tkachenko team double 1000"	1000	TkachenkoTeam	quick_sort	loganov	471
-"Tkachenko team double 1000"	1000	TkachenkoTeam	shellsort	doronin	467
-"Tkachenko team double 100"	100	TkachenkoTeam	bubblesort	tkachenko	165
-"Tkachenko team double 100"	100	TkachenkoTeam	insertionsort	sheiko	154
-"Tkachenko team double 100"	100	TkachenkoTeam	merge_sort	medvedev	42
-"Tkachenko team double 100"	100	TkachenkoTeam	quick_sort	loganov	35
-"Tkachenko team double 100"	100	TkachenkoTeam	shellsort	doronin	31
-"Tkachenko team double 10"	10	TkachenkoTeam	bubblesort	tkachenko	5
-"Tkachenko team double 10"	10	TkachenkoTeam	insertionsort	sheiko	5
-"Tkachenko team double 10"	10	TkachenkoTeam	merge_sort	medvedev	7
-"Tkachenko team double 10"	10	TkachenkoTeam	quick_sort	loganov	4
-"Tkachenko team double 10"	10	TkachenkoTeam	shellsort	doronin	4
+"Tkachenko team Same numbers"	1000	TkachenkoTeam	bubblesort	tkachenko	6984
+"Tkachenko team Same numbers"	1000	TkachenkoTeam	insertionsort	sheiko	15
+"Tkachenko team Same numbers"	1000	TkachenkoTeam	merge_sort	medvedev	304
+"Tkachenko team Same numbers"	1000	TkachenkoTeam	quick_sort	loganov	26742
+"Tkachenko team Same numbers"	1000	TkachenkoTeam	shellsort	doronin	190
+"Tkachenko team Same numbers"	1000	TkachenkoTeam	select_sort	lilichev	8127
+"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	bubblesort	tkachenko	18223
+"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	insertionsort	sheiko	28219
+"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	merge_sort	medvedev	435
+"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	quick_sort	loganov	14437
+"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	shellsort	doronin	307
+"Tkachenko team Already sorted, desc"	977	TkachenkoTeam	select_sort	lilichev	5959
+"Tkachenko team Already sorted"	1000	TkachenkoTeam	bubblesort	tkachenko	6344
+"Tkachenko team Already sorted"	1000	TkachenkoTeam	insertionsort	sheiko	18
+"Tkachenko team Already sorted"	1000	TkachenkoTeam	merge_sort	medvedev	524
+"Tkachenko team Already sorted"	1000	TkachenkoTeam	quick_sort	loganov	24909
+"Tkachenko team Already sorted"	1000	TkachenkoTeam	shellsort	doronin	132
+"Tkachenko team Already sorted"	1000	TkachenkoTeam	select_sort	lilichev	6143
+"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	bubblesort	tkachenko	4663
+"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	insertionsort	sheiko	116
+"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	merge_sort	medvedev	320
+"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	quick_sort	loganov	16906
+"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	shellsort	doronin	112
+"Tkachenko team Swapped first and last"	1000	TkachenkoTeam	select_sort	lilichev	4404
+"Tkachenko team int 1000"	1000	TkachenkoTeam	bubblesort	tkachenko	9658
+"Tkachenko team int 1000"	1000	TkachenkoTeam	insertionsort	sheiko	10088
+"Tkachenko team int 1000"	1000	TkachenkoTeam	merge_sort	medvedev	301
+"Tkachenko team int 1000"	1000	TkachenkoTeam	quick_sort	loganov	288
+"Tkachenko team int 1000"	1000	TkachenkoTeam	shellsort	doronin	267
+"Tkachenko team int 1000"	1000	TkachenkoTeam	select_sort	lilichev	4435
+"Tkachenko team int 100"	100	TkachenkoTeam	bubblesort	tkachenko	89
+"Tkachenko team int 100"	100	TkachenkoTeam	insertionsort	sheiko	86
+"Tkachenko team int 100"	100	TkachenkoTeam	merge_sort	medvedev	27
+"Tkachenko team int 100"	100	TkachenkoTeam	quick_sort	loganov	20
+"Tkachenko team int 100"	100	TkachenkoTeam	shellsort	doronin	16
+"Tkachenko team int 100"	100	TkachenkoTeam	select_sort	lilichev	50
+"Tkachenko team int 10"	10	TkachenkoTeam	bubblesort	tkachenko	3
+"Tkachenko team int 10"	10	TkachenkoTeam	insertionsort	sheiko	3
+"Tkachenko team int 10"	10	TkachenkoTeam	merge_sort	medvedev	4
+"Tkachenko team int 10"	10	TkachenkoTeam	quick_sort	loganov	3
+"Tkachenko team int 10"	10	TkachenkoTeam	shellsort	doronin	2
+"Tkachenko team int 10"	10	TkachenkoTeam	select_sort	lilichev	2
+"Tkachenko team double 1000"	1000	TkachenkoTeam	bubblesort	tkachenko	9499
+"Tkachenko team double 1000"	1000	TkachenkoTeam	insertionsort	sheiko	10306
+"Tkachenko team double 1000"	1000	TkachenkoTeam	merge_sort	medvedev	313
+"Tkachenko team double 1000"	1000	TkachenkoTeam	quick_sort	loganov	270
+"Tkachenko team double 1000"	1000	TkachenkoTeam	shellsort	doronin	266
+"Tkachenko team double 1000"	1000	TkachenkoTeam	select_sort	lilichev	4164
+"Tkachenko team double 100"	100	TkachenkoTeam	bubblesort	tkachenko	89
+"Tkachenko team double 100"	100	TkachenkoTeam	insertionsort	sheiko	85
+"Tkachenko team double 100"	100	TkachenkoTeam	merge_sort	medvedev	24
+"Tkachenko team double 100"	100	TkachenkoTeam	quick_sort	loganov	21
+"Tkachenko team double 100"	100	TkachenkoTeam	shellsort	doronin	16
+"Tkachenko team double 100"	100	TkachenkoTeam	select_sort	lilichev	49
+"Tkachenko team double 10"	10	TkachenkoTeam	bubblesort	tkachenko	3
+"Tkachenko team double 10"	10	TkachenkoTeam	insertionsort	sheiko	3
+"Tkachenko team double 10"	10	TkachenkoTeam	merge_sort	medvedev	4
+"Tkachenko team double 10"	10	TkachenkoTeam	quick_sort	loganov	2
+"Tkachenko team double 10"	10	TkachenkoTeam	shellsort	doronin	14
+"Tkachenko team double 10"	10	TkachenkoTeam	select_sort	lilichev	2
